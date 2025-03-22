@@ -1,0 +1,42 @@
+Inserted 56 into the heap.
+Heap: 56 
+Inserted 30 into the heap.
+Heap: 56 30 
+Inserted 50 into the heap.
+Heap: 56 30 50 
+Inserted 40 into the heap.
+Heap: 56 40 50 30 
+Inserted 42 into the heap.
+Heap: 56 42 50 30 40 
+Deleted element at index 0
+Heap: 50 42 40 30 
+Is heap empty? No
+Max Heap property is preserved.
+Heap: 50 42 40 30 
+Max Heap property is preserved.
+Heap: 50 42 40 30 
+Max Heap property is preserved.
+Heap: 50 42 40 30 
+Heap: 50 42 40 30 
+Heap: 50 42 40 30 
+Max Heap property is preserved.
+Max: 50
+Heap: 50 42 40 30 
+Increased key at index 0 to 90
+Extracted Max: 90
+Heap: 42 30 40 
+Heap: 42 30 40 
+Max Heap property is preserved.
+Heap size: 3
+Heap: 42 30 40 
+Is heap empty? No
+Deleted element at index 0
+Error: deleteKey() called with invalid index.
+Deleted element at index 0
+Deleted element at index 0
+Error: deleteKey() called with invalid index.
+Error: deleteKey() called with invalid index.
+Error: deleteKey() called with invalid index.
+Error: deleteKey() called with invalid index.
+Heap: 
+Max Heap property is preserved.
